@@ -1,0 +1,2 @@
+# pluralsightProjects
+pluralsight Angular Projects
